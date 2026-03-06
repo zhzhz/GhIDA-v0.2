@@ -1,4 +1,4 @@
-# GhIDA - Ghidra Decompiler 12.x for IDA Pro 9.x
+# GhIDA - Ghidra 12.x Decompiler for IDA Pro 9.x
 
 ![GhIDA logo](img/GhIDA-small.png)
 
