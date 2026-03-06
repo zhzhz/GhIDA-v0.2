@@ -4,7 +4,7 @@
 
 GhIDA is an IDA Pro plugin that integrates the Ghidra decompiler in IDA.
 This is a unofficial update for GhIDA v0.1.
-Now you can use Ghidra 12.x Decompiler with IDA 9.x.
+Now you can use Ghidra 12.x Decompiler for IDA 9.x.
 
 ## How does it work?
 
